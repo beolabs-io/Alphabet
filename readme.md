@@ -9,3 +9,7 @@ Serie3: I, J, K, L
 Serie4: M, N, O, P
 
 Serie5: Q, R, S, T
+
+Serie6: U, V, W, X
+
+Serie7: Y, Z
