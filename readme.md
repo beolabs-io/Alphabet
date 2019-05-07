@@ -13,3 +13,5 @@ Serie5: Q, R, S, T
 Serie6: U, V, W, X
 
 Serie7: Y, Z
+
+Serie8: $€%£*+=
